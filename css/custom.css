@@ -1,0 +1,53 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#WhoWeAre{
+	margin-top: 30px;
+	padding:20px;
+	margin-bottom: 30px;
+	height:auto;
+	font-family: "Tw Cen MT",sans-serif;
+}#WhoWeAre p{
+	font-size: 15px;
+}
+#process{
+	text-align: center;
+	margin-top: 40px;
+	background-color: #F7F7F7;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}.panel{
+	margin:10px;
+	margin-top: 20px;
+	transition:background-color 0.70s;
+}
+.panel:hover{
+	background-color: orange;
+}
+.PROCESStag{
+	text-align: center;
+}
+.PROCESStag h1{
+	font-family:  "Tw Cen MT",sans-serif;
+	font-weight: bold;
+}.earth{
+	margin-top: 30px;
+	height:200px;
+	overflow: hidden;
+}.banner{
+	margin-top: -20px;
+}#profile{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}#profile h1{
+	color:orange;
+	margin-bottom: 10px;
+	font-weight: bolder;
+	font-family:  "Tw Cen MT",sans-serif;
+}#profile p{
+	font-family:  "Tw Cen MT",sans-serif;
+    font-weight: bold;
+    font-size: 20px;	
+}
